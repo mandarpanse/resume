@@ -1,20 +1,20 @@
-# Mandar Panse
+# **Mandar Panse**
 
-**Location:** Newburgh, IN-47630  
-**Phone:** (443)-857-2381  
-**Email:** [mandar.panse@outlook.com](mailto:mandar.panse@outlook.com)  
-**LinkedIn:** [linkedin.com/in/mandar-panse-b279b35](https://www.linkedin.com/in/mandar-panse-b279b35/)  
-**GitHub:** [github.com/ssp573](https://github.com/ssp573)
-
----
-
-## Professional Summary
-
-IT professional with 17 years of experience in financial technology, specializing in mainframes, API enablement, and cloud solutions. Demonstrates a strong foundation in integration design patterns, decision engines, and third-party data integration for credit risk systems. Recognized for delivering high-performance technical solutions, reducing resource consumption, and enhancing system architecture.
+**📍 Location:** Newburgh, IN-47630  
+**📞 Phone:** (443)-857-2381  
+**📧 Email:** [mandar.panse@outlook.com](mailto:mandar.panse@outlook.com)  
+**💼 LinkedIn:** [linkedin.com/in/mandar-panse-b279b35](https://www.linkedin.com/in/mandar-panse-b279b35/)  
+**👨‍💻 GitHub:** [github.com/ssp573](https://github.com/ssp573)
 
 ---
 
-## Core Skills
+## **Professional Summary**
+
+Experienced IT professional with **17 years** in financial technology, specializing in **mainframes, API enablement,** and **cloud solutions**. Demonstrates a strong foundation in **integration design patterns**, decision engines, and third-party data integration for credit risk systems. Recognized for **delivering high-performance solutions**, reducing resource consumption, and enhancing system architecture.
+
+---
+
+## **Core Skills**
 
 - **API & Integration**: API enablement, Integration Patterns, Microservices, SOA, Event-Driven Architecture
 - **Decision Engines**: StrategyOne, FICO Scoreware, Strategy Manager
@@ -26,18 +26,18 @@ IT professional with 17 years of experience in financial technology, specializin
 
 ---
 
-## Certifications
+## **Certifications**
 
-- **Data Science and Machine Learning** - MIT
-- **AWS Cloud Practitioner** - Associate
-- **Data Science with R** - Simplilearn
-- **Data Science with Python** - Simplilearn
+- 🏆 **Data Science and Machine Learning** - MIT
+- 🏆 **AWS Cloud Practitioner** - Associate
+- 🏆 **Data Science with R** - Simplilearn
+- 🏆 **Data Science with Python** - Simplilearn
 
 ---
 
-## Professional Experience
+## **Professional Experience**
 
-### OneMain Financial
+### **OneMain Financial**
 **Role**: Lead Engineer  
 **Department**: Enterprise System Services – COE/Platform Engineering  
 **Duration**: Apr 2021 - Present  
@@ -46,16 +46,16 @@ IT professional with 17 years of experience in financial technology, specializin
 - Created custom MuleSoft policies, including API mocking, supporting parallel development and efficiency improvements.
 - Conducted vendor evaluations for API enablement on IBM iSeries, ensuring compatibility across platforms.
 
-### OneMain Financial
+### **OneMain Financial**
 **Role**: Engineer  
 **Department**: Credit Risk Systems  
 **Duration**: Dec 2015 – Apr 2021  
 
 - Re-architected application structures to optimize communication with decision engines, reducing payload size and CPU usage.
-- Achieved 50% reduction in CPU consumption, resulting in significant cost savings for the organization.
+- Achieved a 50% reduction in CPU consumption, resulting in significant cost savings for the organization.
 - Automated job submission on mainframes with Python, reducing manual intervention and increasing efficiency.
 
-### Syntel Consulting / First Data - Merchant Account Initiation
+### **Syntel Consulting / First Data - Merchant Account Initiation**
 **Role**: Senior Project Lead  
 **Duration**: Nov 2010 – Dec 2015  
 
@@ -66,16 +66,16 @@ IT professional with 17 years of experience in financial technology, specializin
 
 ---
 
-## Education
+## **Education**
 
-- **Master of Computer Application (Computer Science)**  
+- 🎓 **Master of Computer Application (Computer Science)**  
   Pune University, Pune, India – May 2009
-- **Bachelor of Computer Science**  
+- 🎓 **Bachelor of Computer Science**  
   Pune University, Pune, India – May 2005
 
 ---
 
-## Technical Skills
+## **Technical Skills**
 
 - **Programming**: Python, COBOL, J2EE, NodeJS, SQL, Django, Flask  
 - **Web Technologies**: JSON, SOAP, Angular, ReactJS, EJS, JSP, Hibernate, STRUTS  
@@ -93,13 +93,13 @@ IT professional with 17 years of experience in financial technology, specializin
 
 ---
 
-## Accomplishments
+## **Accomplishments**
 
-- **Hackathon People's Choice Award (Q1 2022)**: Awarded for deploying NodeJS on mainframe at OneMain.
+- 🏅 **Hackathon People's Choice Award (Q1 2022)**: Awarded for deploying NodeJS on mainframe at OneMain.
 
 ---
 
-## Work Authorization
+## **Work Authorization**
 
 - **Visa Type**: H1B valid through Nov 2026  
 - **I-140**: Approved in 2016
